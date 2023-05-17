@@ -67,8 +67,8 @@ export function Content() {
   return (
     <>
       <Header
-        title='Mulheres que revolucionaram o Brasil'
-        subtitle='Elas mudaram (e estão mudando) a nossa história. Mas você conhece a história delas?'
+        title='Extraordinárias'
+        subtitle='Mulheres que revolucionaram o Brasil'
         image={listaImg}
       />
       <div className={styles.projectsContainer}>
